@@ -1,4 +1,5 @@
-# Oracle-Complexity-Separation
+# Oracle-Complexity-Separation 
+Students' project
 
 - [Accelerated_Sliding_SVM_with_argmin](/Accelerated_Sliding_SVM_with_argmin.ipynb) — исправлено подсчет количества вызовов оракула, argmin в Катюше ищется аналитически, 
 параметр регуляризации lambda = 0.1. Датасет: breast wisconsin (как в папке svm)
